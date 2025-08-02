@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "appVersionCode": 1,
   "messageText": "Oops! ⏰ This app has expired.<br>Please update to the latest version.",
   "updateButtonText": "Update",
@@ -12,5 +12,5 @@
   "cancelButtonGradientEndColor": "#64B5F6",
   "textGradientStartColor": "#1E88E5",
   "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "dialogBackgroundColor": "#0d828c"
 }
