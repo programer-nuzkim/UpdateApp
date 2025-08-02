@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired.<br>Please update to the latest version.",
+  "messageText": "Oops! This app has expired.<br>Please update to the latest version.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
