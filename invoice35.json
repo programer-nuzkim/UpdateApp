@@ -1,1 +1,16 @@
-
+{
+  "showDialog": true,
+  "appVersionCode": 10167,
+  "messageText": "Invoice Maker v2.40.345 is available! 🎉\n\nWhat's new:\n____________________\n⭐️ Create Invoice with well-designed templates\n⭐ Real-time preview during invoices & estimates creation\n⭐️ Get the clear status of each invoice simple\n\n____________________\nSmall size and easy to use\nUpdate now to enjoy these improvements!",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://google.com",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Exit",
+  "cancelClosesApp": false,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#1467A3"
+}
