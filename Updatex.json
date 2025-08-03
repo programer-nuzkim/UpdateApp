@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 2,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.\n\nUpdate change log\n-afu error fixed\n-dag plugin added",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
   "updateButtonGradientStartColor": "#1E88E5",
@@ -12,5 +12,5 @@
   "cancelButtonGradientEndColor": "#64B5F6",
   "textGradientStartColor": "#1E88E5",
   "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "dialogBackgroundColor": "#078f7f"
 }
