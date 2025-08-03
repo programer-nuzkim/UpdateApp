@@ -1,16 +1,21 @@
+
+
 {
   "showDialog": true,
-  "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.\n\nUpdate change log\n-afu error fixed\n-dag plugin added",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#1467A3"
+  "appVersionCode": 2,
+  "messageText": "Invoice Maker v2.40.345 is available! 🎉\n\nWhat's new:\n⭐️ Invoice Maker, estimate maker, free Invoice app to make invoices & estimates\n⭐️ Create invoice easy and professional\n⭐️ Create Invoice with well-designed templates\n⭐ Real-time preview during invoices & estimates creation\n⭐️ Get the clear status of each invoice simple\n⭐ Small size and easy to use\n\nUpdate now to enjoy these improvements!",
+  "updateButtonText": "Update Now",
+  "updateButtonLink": "https://play.google.com/store/apps/details?id=com.invoicemaker.app",
+  "updateButtonGradientStartColor": "#4CAF50",
+  "updateButtonGradientEndColor": "#8BC34A",
+  "cancelButtonText": "Later",
+  "cancelClosesApp": false,
+  "cancelButtonGradientStartColor": "#F44336",
+  "cancelButtonGradientEndColor": "#E57373",
+  "textGradientStartColor": "#2196F3",
+  "textGradientEndColor": "#00BCD4",
+  "dialogBackgroundColor": "#FFFFFF",
+  "dialogTitle": "New Version Available!",
+  "dialogTitleColor": "#2196F3",
+  "forceUpdate": false
 }
