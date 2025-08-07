@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 10166,
-  "messageText": "Hello Dear valued user! A new version (v1.02.36) of the Invoice Maker application is now available.\nYou are currently using (v1.02.35), please update now by clicking the (Download) button below.\n\n[What are the performance and features]\n• Create Invoice with well-designed templates [added]\n• Real-time preview during invoices & estimates creation [added]\n• Discount Option modified to advanced fee selection [fixed]\n• Completely Fixed all errors and bugs [fixed]\n",
+  "messageText": "Hello Dear valued user! A new version (v1.02.36) of the Invoice Maker application is now available.\nYou are currently using (v1.02.35), please update now by clicking the (Download) button below.\n[ What are the performance and features ]\n• Create Invoice with well-designed templates [added]\n• Real-time preview during invoices & estimates creation [added]\n• Discount Option modified to advanced fee selection [fixed]\n• Completely Fixed all errors and bugs [fixed]\n",
   "updateButtonText": "Download",
   "updateButtonLink": "https://jottacloud.com/web/sync/list/name/Invoice%20apk/Uranuscop%20Invoice%20maker%20v1.02.36.apk",
   "updateButtonGradientStartColor": "#1E88E5",
